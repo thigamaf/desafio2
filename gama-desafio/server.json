@@ -1,0 +1,39 @@
+{
+    "produtos":[
+        {
+            "id": 1,
+            "photo": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg",
+            "name": "Iphone",
+            "description": "Apple 128GB Branco Tela 6,1 camera 12MP IOS",
+            "price": 5000
+        },
+        {
+            "id": 2,
+            "photo": "https://a-static.mlcdn.com.br/1500x1500/smartphone-samsung-galaxy-s21-128gb-8gb-ram-tela-infinita-de-6-7/lojasamsungoficial1/1960/fd93e42abf33cf6989c0e7f377009e8f.jpg",
+            "name": "Galaxy S21",
+            "description": "128GB 5G Wi-fi Tela 6,2 Dual Chip ",
+            "price": 3900
+        },
+        {
+            "id": 3,
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/71gOkVA6-eL._AC_SL1500_.jpg",
+            "name": "Ipad",
+            "description": "Apple 8 geração 32GB Tela 10,2 Wi-fi 3G",
+            "price": 4500
+        },
+        {
+            "id": 4,
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/71iPYM1mE-L._AC_SL1500_.jpg",
+            "name": "Notebook LG GRAM",
+            "description": "8GB RAM 256 SSD",
+            "price": 2500
+        },
+        {
+            "id": 5,
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/31sq02%2BO6HL._AC_.jpg",
+            "name": "Macbook",
+            "description": "AIR Apple M1 8GB 256GB SSD Tela 13",
+            "price": 9200
+        }
+    ]
+}
